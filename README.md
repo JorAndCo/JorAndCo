@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello there 👋
+## I'm Jordi, a starting developer.
+
+> Do you hear the birds?
+
+
 
 <!--
 **JorAndCo/JorAndCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
