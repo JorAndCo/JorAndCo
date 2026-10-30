@@ -1,7 +1,7 @@
 # Hello there 👋
 ## I'm Jordi, a starting developer.
 
-![screenshot] (https://media.istockphoto.com/id/2166773378/es/foto/oto%C3%B1o-en-el-lago-gosau-en-salzkammergut-austria.jpg?s=612x612&w=0&k=20&c=dD94J3OSdn7V4-XZTzqib6ISMF1vhEFIY0RbCIAJ4Qc=)
+![autumn](https://media.istockphoto.com/id/2166773378/es/foto/oto%C3%B1o-en-el-lago-gosau-en-salzkammergut-austria.jpg?s=612x612&w=0&k=20&c=dD94J3OSdn7V4-XZTzqib6ISMF1vhEFIY0RbCIAJ4Qc=)
 > Do you hear the birds?
 <!--
 **JorAndCo/JorAndCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
